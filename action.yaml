@@ -4,4 +4,4 @@ runs:
   steps:
     - name: Trigger Workflow Dispatch Event
       shell: bash
-      run: echo hello world!
+      run: echo not a hello world!
